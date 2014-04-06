@@ -1,3 +1,3 @@
 == README
 
-GA WDI week4 day15 miniproject3
+GA WDI week3 day15 miniproject3
